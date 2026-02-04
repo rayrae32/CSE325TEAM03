@@ -39,7 +39,7 @@ This repository contains the collaborative group project for CSE 325 - .NET Soft
 
 ```bash
 git clone https://github.com/rayrae32/CSE325TEAM03
-cd CSE325-Team3-GroupProject
+cd CSE325TEAM03
 ```
 
 ### Initial Setup
@@ -49,7 +49,7 @@ Instructions for building and running the application will be added once the pro
 ## 📁 Project Structure
 
 ```
-CSE325-Team4-GroupProject/
+CSE325TEAM03/
 ├── docs/               # Documentation and weekly submissions
 ├── src/                # Source code (to be added)
 ├── tests/              # Unit and integration tests (to be added)
