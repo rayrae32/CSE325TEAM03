@@ -1,4 +1,4 @@
-# Week 2 Team Submission - CSE 325 Team 4
+# Week 2 Team Submission - CSE 325 Team 3
 
 ---
 

@@ -1,5 +1,5 @@
 Week3: Team Submission
-Team 4
+Team 3
 1/21/2026
 
 ## 1. Meeting Summary
@@ -7,19 +7,13 @@ Team 4
 In this meeting, we discussed our final project. We decided to create a Volunteer Service site where volunteers can search for opportunities to serve and sign up for those opportunities. We discussed the needs, users, scope, features and technical requirements for the project, and made a document with all the necessary requirements.  
 **Participants:**
 
-- Kendahl Chae Bingham
-- Shayla Foley
-- Iyen Samuel Evbosaru
-- ANGE JUNIOR GOHOURI
-- Gabriel Enrique Torrejon Aguilera
-- Boitumelo Hebert Meletse
-- Adetokunbo Olutola Osibo
-- Judy Hanson
-- Maxwell Balla Nvani
-- Brenden Taylor Lyon
+- Rachel Amarachukwu Ukpabi
+- Joseph Uchenna
+- Douglas
+
 
 Project Proposal: Volunteer Service Portal
-Team 4
+Team 3
 Project Title
 ServeHub: Volunteer Service Portal
 
@@ -130,7 +124,7 @@ Version Control: GitHub
 Project Links
 GitHub Repository:
 
-https://github.com/kendychae/CSE325-Team4-GroupProject
+https://github.com/rayrae32/CSE325TEAM03.git
 
 GitHub Team Project Board:
 https://github.com/users/kendychae/projects/2/views/1

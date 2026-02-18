@@ -7,25 +7,10 @@ We went over previous tasks accomplished and merged the branches, we found error
 
 Participants:
 
-Brenden Taylor Lyon
+Rachel Amarachukwu Ukpabi
+Douglas Martin Mason Greyling
+Joseph Uchenna Isreal
 
-Adetokumbo Olutola Osibo
-
-Boitumelo Herbert Meletse
-
-Curtis Guelable Siahe
-
-Gabriel Enrique Torrejon Aguilar
-
-Iyen Samuel Evbosaru
-
-Judy Hanson
-
-Kendahl Chae Bingham
-
-Maxwell Balla Nvani
-
-Shayla Foley
 
 2. GitHub Project Board and Work Items (5 pts)
 
@@ -37,11 +22,11 @@ List at least one work item assigned to each group member. Example:
 
 Kendahl: admin management for service acts
 
-Tolaji : API documentation
+Rachel : API documentation
 
-Maxwell: Project Initialization
+Douglas: Project Initialization
 
-Shayla : browse and search service acts
+Joseph : browse and search service acts
 
 Brenden : sign up for a service event
 
